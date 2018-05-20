@@ -20,6 +20,7 @@ namespace YMS3514GithubDenem
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Test");
+            MessageBox.Show("Deneme");
         }
     }
 }
